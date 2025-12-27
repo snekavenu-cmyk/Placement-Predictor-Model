@@ -41,8 +41,16 @@ The dataset consists of the following features:
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/snekavenu-cmyk/Placement-Predictor-Model.git
+
+   ## Streamlit Web App
+This project includes a Streamlit-based web application that allows users to input student details and predict placement outcomes in real time.
+
+### Run the App
+```bash
+streamlit run app.py
+
 
